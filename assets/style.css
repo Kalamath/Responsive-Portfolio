@@ -166,6 +166,15 @@ footer {
     border: 1px solid #ddd;
 }
 
+.myImage {
+    float: left;
+    margin-right: 25px;
+}
+
+p {
+    
+}
+
 .sidebar {
     float: right;
     width: 100%;
